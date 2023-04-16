@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\starzipper.github.io.props" />
+</Project>
