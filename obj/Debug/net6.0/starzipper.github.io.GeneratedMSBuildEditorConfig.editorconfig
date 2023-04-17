@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Starzipper\repos\starzipper.github.io
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Starzipper/repos/starzipper.github.io/Pages/Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWR1Y2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Starzipper/repos/starzipper.github.io/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Starzipper/repos/starzipper.github.io/Pages/Experience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhwZXJpZW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Starzipper/repos/starzipper.github.io/Pages/Index.cshtml]
@@ -26,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Starzipper/repos/starzipper.github.io/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Starzipper/repos/starzipper.github.io/Pages/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Starzipper/repos/starzipper.github.io/Pages/Shared/_ValidationScriptsPartial.cshtml]

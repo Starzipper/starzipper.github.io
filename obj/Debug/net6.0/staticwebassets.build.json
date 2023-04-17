@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uulyUUzcw6ZLZHU1q4xwzV87dYQBfPluu7q0y8lLG/I=",
+  "Hash": "SqJmUbPd7DzFyCBITCChzWL8rghqYUfxxGS1hewCLBk=",
   "Source": "starzipper.github.io",
   "BasePath": "_content/starzipper.github.io",
   "Mode": "Default",
@@ -1069,6 +1069,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\redslime.png",
+      "SourceId": "starzipper.github.io",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\",
+      "BasePath": "_content/starzipper.github.io",
+      "RelativePath": "redslime.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\redslime.png"
     }
   ]
 }

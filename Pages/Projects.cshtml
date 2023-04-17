@@ -1,0 +1,19 @@
+﻿@page
+@model starzipper.github.io.Pages.ProjectsModel
+@{
+    ViewData["Title"] = "Projects page";
+}
+<h2><strong>Projects</strong></h2>
+<div className="row justify-content-center">
+    <div id="carouselExampleCaptions" className="carousel slide col-8" data-bs-ride="carousel">
+        <div className="carousel-inner">
+            <div className="carousel-item active">
+                <a href="https://github.com/Starzipper/Slimepen" target="_blank" rel="noreferrer"><img src="~/redslime.png" className="d-block w-100" alt="Red Slime" /></a>
+                <div className="carousel-caption d-md-block">
+                    <a href="https://github.com/Starzipper/Slimepen" target="_blank" rel="noreferrer"><h5>SlimePen - Slime Breeding Game</h5></a>
+                    <p className="carousel-desc">My final project for TrueCoders. It's an API with CRUD functionality and I used C#, Razor, HTML, CSS, and JQuery to create it. It's a basic browser breeding game where you can breed slimes together to have them make fun new colors.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
