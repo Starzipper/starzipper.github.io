@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\morganpicture.png",
+      "PackagePath": "staticwebassets\\images\\morganpicture.png"
+    },
+    {
+      "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\morganpicturetrimmed.png",
+      "PackagePath": "staticwebassets\\images\\morganpicturetrimmed.png"
+    },
+    {
+      "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\redslime.png",
+      "PackagePath": "staticwebassets\\images\\redslime.png"
+    },
+    {
       "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -243,10 +255,6 @@
     {
       "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\redslime.png",
-      "PackagePath": "staticwebassets\\redslime.png"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.starzipper.github.io.props",

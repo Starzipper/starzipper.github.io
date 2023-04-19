@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SqJmUbPd7DzFyCBITCChzWL8rghqYUfxxGS1hewCLBk=",
+  "Hash": "4fTkylKIalzEc1L+sk+/lZ5vDrJmccIRwqBKRVl4Xno=",
   "Source": "starzipper.github.io",
   "BasePath": "_content/starzipper.github.io",
   "Mode": "Default",
@@ -83,6 +83,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\morganpicture.png",
+      "SourceId": "starzipper.github.io",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\",
+      "BasePath": "_content/starzipper.github.io",
+      "RelativePath": "images/morganpicture.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\morganpicture.png"
+    },
+    {
+      "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\morganpicturetrimmed.png",
+      "SourceId": "starzipper.github.io",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\",
+      "BasePath": "_content/starzipper.github.io",
+      "RelativePath": "images/morganpicturetrimmed.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\morganpicturetrimmed.png"
+    },
+    {
+      "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\redslime.png",
+      "SourceId": "starzipper.github.io",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\",
+      "BasePath": "_content/starzipper.github.io",
+      "RelativePath": "images/redslime.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\redslime.png"
     },
     {
       "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\js\\site.js",
@@ -1069,23 +1120,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\redslime.png",
-      "SourceId": "starzipper.github.io",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\",
-      "BasePath": "_content/starzipper.github.io",
-      "RelativePath": "redslime.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\redslime.png"
     }
   ]
 }
