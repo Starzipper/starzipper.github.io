@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\battleshipsmall.png",
+      "PackagePath": "staticwebassets\\images\\battleshipsmall.png"
+    },
+    {
       "Id": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\morganpicture.png",
       "PackagePath": "staticwebassets\\images\\morganpicture.png"
     },

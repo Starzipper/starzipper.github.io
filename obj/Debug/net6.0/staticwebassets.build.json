@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4fTkylKIalzEc1L+sk+/lZ5vDrJmccIRwqBKRVl4Xno=",
+  "Hash": "c/uTHrDi/MLat8y/zc+VrzkOz0VniMypXi7/7p9ZFiY=",
   "Source": "starzipper.github.io",
   "BasePath": "_content/starzipper.github.io",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\battleshipsmall.png",
+      "SourceId": "starzipper.github.io",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\",
+      "BasePath": "_content/starzipper.github.io",
+      "RelativePath": "images/battleshipsmall.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\battleshipsmall.png"
     },
     {
       "Identity": "C:\\Users\\Starzipper\\repos\\starzipper.github.io\\wwwroot\\images\\morganpicture.png",
